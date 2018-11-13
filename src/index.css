@@ -1,0 +1,36 @@
+.content {
+  width: 650px;
+  margin: 0 auto;
+}
+.topHeader {
+  background-color: black;
+}
+.carIcon {
+  position: relative;
+  width: 90px;
+  clear: both;
+}
+.collection {
+  font-size: 10px;
+  vertical-align: middle;
+  margin-top: -0.5em;
+  margin-left: 10px;
+}
+.additionalInformations {
+  font-size: 10px;
+  margin-top: 15px;
+  padding-bottom: 10px;
+  border-bottom: 1px dotted #ffd100;
+}
+.description {
+  border-top: 1px dotted #ffd100;
+}
+.panel {
+  padding-bottom: 30px;
+}
+.carDetails {
+  font-size: 12px;
+}
+span.passengersHeader {
+  font-size: 12px;
+}

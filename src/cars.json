@@ -1,0 +1,197 @@
+{
+  "results": [
+    {
+      "make": "Volkswagen",
+      "model": "(D) VW Jetta Diesel or Similar",
+      "description": "Intermediate, 4-5 Door, Manual, Diesel Air",
+      "collection": "Standard",
+      "details": {
+        "passengers": "5 Passengers",
+        "suitcase": "2 Large Suitcase, 2 Small Suitcase",
+        "transmission": "Manual Transmission",
+        "ac": "Air Conditioning",
+        "miles": "65 miles/gallon (approximate)",
+        "co2": "109 g/km CO2"
+      },
+      "photo": "6.jpg",
+      "additionalInformation": "Please Note Optional extras such as SuperCover are available to purchase at the location. Please see 'More details about your quote' on the next page for prices. Pre-Pay Online: Allows you to reserve your vehicle and save money by pre-paying online. Pay at location: Allows you to reserve your vehicle and pay at the counter upon collection.",
+      "desclimer": "The vehicles shown are examples. Specific models within a car class may vary in availability and features, such as passenger seating, luggage capacity and mileage"
+    },
+    {
+      "make": "Ford",
+      "model": "(G) Ford Mondeo or Similar",
+      "description": "Standard, 4-5 Door, Automatic, Aircon",
+      "collection": "Standard",
+      "details": {
+        "passengers": "5 Passengers",
+        "suitcase": "2 Large Suitcase, 2 Small Suitcase",
+        "transmission": "Automatic Transmission",
+        "ac": "Air Conditioning",
+        "miles": "50 miles/gallon (approximate)",
+        "co2": "129 g/km CO2"
+      },
+      "photo": "7.jpg",
+      "additionalInformation": "Please Note Optional extras such as SuperCover are available to purchase at the location. Please see 'More details about your quote' on the next page for prices. Pre-Pay Online: Allows you to reserve your vehicle and save money by pre-paying online. Pay at location: Allows you to reserve your vehicle and pay at the counter upon collection.",
+      "desclimer": "The vehicles shown are examples. Specific models within a car class may vary in availability and features, such as passenger seating, luggage capacity and mileage"
+    },
+    {
+      "make": "Volkswagen",
+      "model": "(E) Volkswagen Up or Similar",
+      "description": "Economy, 2-4 Door, Automatic, No Aircon",
+      "collection": "Standard",
+      "details": {
+        "passengers": "4 Passengers",
+        "suitcase": "1 Large Suitcase, 2 Small Suitcase",
+        "transmission": "Automatic Transmission",
+        "ac": "Air Conditioning",
+        "miles": "60 miles/gallon (approximate)",
+        "co2": "108 g/km CO2"
+      },
+      "photo": "8.jpg",
+      "additionalInformation": "Please Note Optional extras such as SuperCover are available to purchase at the location. Please see 'More details about your quote' on the next page for prices. Pre-Pay Online: Allows you to reserve your vehicle and save money by pre-paying online. Pay at location: Allows you to reserve your vehicle and pay at the counter upon collection.",
+      "desclimer": "The vehicles shown are examples. Specific models within a car class may vary in availability and features, such as passenger seating, luggage capacity and mileage"
+    },
+    {
+      "make": "Opel",
+      "model": "(P) Opel Zafira or Similar",
+      "description": "Intermediate, People Carrier, Manual, Diesel Air",
+      "collection": "4WD/SUV",
+      "details": {
+        "passengers": "7 Passengers",
+        "suitcase": "1 Large Suitcase, 2 Small Suitcase",
+        "transmission": "Manual Transmission",
+        "ac": "Air Conditioning",
+        "miles": "55 miles/gallon (approximate)",
+        "co2": "129 g/km CO2"
+      },
+      "photo": "9.jpg",
+      "additionalInformation": "Please Note Optional extras such as SuperCover are available to purchase at the location. Please see 'More details about your quote' on the next page for prices. Pre-Pay Online: Allows you to reserve your vehicle and save money by pre-paying online. Pay at location: Allows you to reserve your vehicle and pay at the counter upon collection.",
+      "desclimer": "The vehicles shown are examples. Specific models within a car class may vary in availability and features, such as passenger seating, luggage capacity and mileage"
+    },
+    {
+      "make": "Nissan",
+      "model": "(V) Nissan Qashqai or Similar",
+      "description": "Intermediate, SUV, Automatic, Aircon",
+      "collection": "4WD/SUV",
+      "details": {
+        "passengers": "5 Passengers",
+        "suitcase": "2 Large Suitcase, 2 Small Suitcase",
+        "transmission": "Automatic Transmission",
+        "ac": "Air Conditioning",
+        "miles": "55 miles/gallon (approximate)",
+        "co2": "119 g/km CO2"
+      },
+      "photo": "10.jpg",
+      "additionalInformation": "Please Note Optional extras such as SuperCover are available to purchase at the location. Please see 'More details about your quote' on the next page for prices. Pre-Pay Online: Allows you to reserve your vehicle and save money by pre-paying online. Pay at location: Allows you to reserve your vehicle and pay at the counter upon collection.",
+      "desclimer": "The vehicles shown are examples. Specific models within a car class may vary in availability and features, such as passenger seating, luggage capacity and mileage"
+    },
+    {
+      "make": "Audi",
+      "model": "(R6) Audi A1 Sportback",
+      "description": "Economy Elite, 4-5 Door, Manual, Aircon",
+      "collection": "Fun",
+      "details": {
+        "passengers": "5 Passengers",
+        "suitcase": "1 Large Suitcase, 2 Small Suitcase",
+        "transmission": "Manual Transmission",
+        "ac": "Air Conditioning",
+        "miles": "55 miles/gallon (approximate)",
+        "co2": "119 g/km CO2"
+      },
+      "photo": "1.jpg",
+      "additionalInformation": "Please Note Optional extras such as SuperCover are available to purchase at the location. Please see 'More details about your quote' on the next page for prices. Pre-Pay Online: Allows you to reserve your vehicle and save money by pre-paying online. Pay at location: Allows you to reserve your vehicle and pay at the counter upon collection.",
+      "desclimer": "The vehicles shown are examples. Specific models within a car class may vary in availability and features, such as passenger seating, luggage capacity and mileage"
+    },
+    {
+      "make": "Volkswagen",
+      "model": "(J6) VW Beetle",
+      "description": "Compact, 2-3 Door, Manual, Aircon",
+      "collection": "Fun",
+      "details": {
+        "passengers": "4 Passengers",
+        "suitcase": "1 Large Suitcase, 2 Small Suitcase",
+        "transmission": "Manual Transmission",
+        "ac": "Air Conditioning",
+        "miles": "50 miles/gallon (approximate)",
+        "co2": "119 g/km CO2"
+      },
+      "photo": "2.jpg",
+      "additionalInformation": "Please Note Optional extras such as SuperCover are available to purchase at the location. Please see 'More details about your quote' on the next page for prices. Pre-Pay Online: Allows you to reserve your vehicle and save money by pre-paying online. Pay at location: Allows you to reserve your vehicle and pay at the counter upon collection.",
+      "desclimer": "The vehicles shown are examples. Specific models within a car class may vary in availability and features, such as passenger seating, luggage capacity and mileage"
+    },
+    {
+      "make": "Range Rover",
+      "model": "(W6) Range Rover",
+      "description": "Premium Elite, SUV, Automatic, Diesel Air",
+      "collection": "Prestige",
+      "details": {
+        "passengers": "5 Passengers",
+        "suitcase": "3 Large Suitcase, 2 Small Suitcase",
+        "transmission": "Automatic Transmission",
+        "ac": "Air Conditioning",
+        "miles": "35 miles/gallon (approximate)",
+        "co2": "199 g/km CO2"
+      },
+      "photo": "3.jpg",
+      "additionalInformation": "Please Note Optional extras such as SuperCover are available to purchase at the location. Please see 'More details about your quote' on the next page for prices. Pre-Pay Online: Allows you to reserve your vehicle and save money by pre-paying online. Pay at location: Allows you to reserve your vehicle and pay at the counter upon collection.",
+      "desclimer": "The vehicles shown are examples. Specific models within a car class may vary in availability and features, such as passenger seating, luggage capacity and mileage"
+    },
+    {
+      "make": "BMW",
+      "model": "(Y6) BMW X5",
+      "description": "Luxury, SUV, Automatic, Aircon",
+      "collection": "Prestige",
+      "details": {
+        "passengers": "5 Passengers",
+        "suitcase": "3 Large Suitcase, 1 Small Suitcase",
+        "transmission": "Automatic Transmission",
+        "ac": "Air Conditioning",
+        "miles": "35 miles/gallon (approximate)",
+        "co2": "214 g/km CO2"
+      },
+      "photo": "4.jpg",
+      "additionalInformation": "Please Note Optional extras such as SuperCover are available to purchase at the location. Please see 'More details about your quote' on the next page for prices. Pre-Pay Online: Allows you to reserve your vehicle and save money by pre-paying online. Pay at location: Allows you to reserve your vehicle and pay at the counter upon collection.",
+      "desclimer": "The vehicles shown are examples. Specific models within a car class may vary in availability and features, such as passenger seating, luggage capacity and mileage"
+    },
+    {
+      "make": "Audi",
+      "model": "(S6) Audi A7",
+      "description": "Special, 4-5 Door, Automatic, Aircon",
+      "collection": "Prestige",
+      "details": {
+        "passengers": "4 Passengers",
+        "suitcase": "2 Large Suitcase, 2 Small Suitcase",
+        "transmission": "Automatic Transmission",
+        "ac": "Air Conditioning",
+        "miles": "48 miles/gallon (approximate)",
+        "co2": "158 g/km CO2"
+      },
+      "photo": "5.jpg",
+      "additionalInformation": "Please Note Optional extras such as SuperCover are available to purchase at the location. Please see 'More details about your quote' on the next page for prices. Pre-Pay Online: Allows you to reserve your vehicle and save money by pre-paying online. Pay at location: Allows you to reserve your vehicle and pay at the counter upon collection.",
+      "desclimer": "The vehicles shown are examples. Specific models within a car class may vary in availability and features, such as passenger seating, luggage capacity and mileage"
+    },
+    {
+      "make": "Ford",
+      "model": "(M4) Ford Transit Custom or Similar",
+      "description": "Special, Commercial Van/Truck, Manual, No Aircon",
+      "collection": "Van",
+      "details": {
+        "passengers": "3 Passengers",
+        "suitcase": "10 Large Suitcase, 15 Small Suitcase",
+        "transmission": "Manual Transmission",
+        "ac": "Air Conditioning",
+        "miles": "42 miles/gallon (approximate)",
+        "co2": "177 g/km CO2"
+      },
+      "photo": "11.jpg",
+      "additionalInformation": "Please Note Optional extras such as SuperCover are available to purchase at the location. Please see 'More details about your quote' on the next page for prices. Pre-Pay Online: Allows you to reserve your vehicle and save money by pre-paying online. Pay at location: Allows you to reserve your vehicle and pay at the counter upon collection.",
+      "desclimer": "The vehicles shown are examples. Specific models within a car class may vary in availability and features, such as passenger seating, luggage capacity and mileage"
+    }
+  ],
+  "info": {
+    "seed": "c392d91a3d7dc367",
+    "results": 12,
+    "page": 1,
+    "version": "1.2"
+  }
+}

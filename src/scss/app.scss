@@ -1,0 +1,97 @@
+body {
+  padding: 50px 0;
+  background-color: black;
+}
+h1 {
+  text-align: center;
+  margin-bottom: 18px;
+}
+header {
+  margin-bottom: 20px;
+  text-align: center;
+  img {
+    max-width: 120px;
+  }
+}
+.content {
+  background-color: #fff !important;
+  padding: 20px;
+  border-radius: 7px;
+  box-shadow: 1px 1px 4px rgba(0, 0, 0, 0.2);
+  .table {
+    margin-bottom: 0;
+    td,
+    th {
+      vertical-align: middle;
+    }
+    .mRight {
+      margin-right: 20px;
+    }
+  }
+}
+.btn-sm {
+  margin-right: 8px;
+}
+.form-inline {
+  margin: 10px auto;
+  width: 235px;
+  .btn-default {
+    margin-left: 5px;
+  }
+}
+.panel {
+  .panel-heading {
+    cursor: pointer;
+  }
+  .panel-collapse {
+    overflow: hidden;
+    transition: height 0.3s ease-out;
+  }
+  .panel-body {
+    border: none !important;
+  }
+  h2 {
+    margin-top: 5px !important;
+  }
+}
+.loader {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 100px;
+  height: 100px;
+  transform: translate(-50%, -50%);
+  opacity: 0;
+  visibility: hidden;
+  transition-delay: 0.2s;
+  .icon {
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    left: 0;
+    top: 0;
+    background: url("../images/ico_loader.svg") no-repeat 0 0;
+    background-size: 248px 248px;
+  }
+}
+.is-loading {
+  .loader {
+    opacity: 1;
+    visibility: visible;
+    transition: opacity 0.3s linear, visibility 0.3s linear;
+    z-index: 3;
+    .icon {
+      animation: spin 500ms infinite linear;
+    }
+  }
+}
+@keyframes spin {
+  0% {
+    transform: rotate(0);
+    transform-origin: center center;
+  }
+  100% {
+    transform: rotate(360deg);
+    transform-origin: center center;
+  }
+}
